@@ -1,0 +1,6 @@
+{
+  "name": "SpotFix AI",
+  "description": "Hyperlocal community platform that helps citizens quickly report public infrastructure issues with AI analysis and duplicate detection.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
